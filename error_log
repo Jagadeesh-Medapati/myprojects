@@ -1,0 +1,214 @@
+[14-Apr-2020 07:37:06 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/sw68vaoyt840/public_html/otp.php on line 387
+[28-Apr-2020 17:11:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/sw68vaoyt840/public_html/verifyotp.php on line 389
+[13-May-2020 07:57:55 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sw68vaoyt840/public_html/index.php on line 233
+[13-May-2020 07:58:16 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sw68vaoyt840/public_html/index.php on line 233
+[07-Jun-2020 12:45:35 UTC] PHP Notice:  Undefined index: open in /home/sw68vaoyt840/public_html/wedding-directory-profile.php on line 8
+[07-Jun-2020 12:45:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 12:45:49 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/sw68vaoyt840/public_html/otp.php on line 393
+[07-Jun-2020 12:47:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 16:20:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 16:33:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 16:35:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:12:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:14:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:15:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:15:47 UTC] PHP Notice:  Undefined index: open in /home/sw68vaoyt840/public_html/wedding-directory-profile.php on line 8
+[07-Jun-2020 19:15:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:15:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:15:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:16:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:16:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:16:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:16:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:16:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:16:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[07-Jun-2020 19:16:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[25-Jun-2020 01:06:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[25-Jun-2020 01:12:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[26-Jun-2020 17:05:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[26-Jun-2020 17:06:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[26-Jun-2020 17:06:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[26-Jun-2020 17:16:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[28-Jun-2020 09:35:55 UTC] PHP Notice:  Undefined index: open in /home/sw68vaoyt840/public_html/wedding-directory-profile.php on line 8
+[28-Jun-2020 09:35:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[06-Jul-2020 16:08:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[06-Jul-2020 17:34:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[09-Jul-2020 17:30:04 UTC] PHP Notice:  Undefined index: open in /home/sw68vaoyt840/public_html/wedding-directory-profile.php on line 8
+[09-Jul-2020 17:30:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[11-Jul-2020 23:33:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[11-Jul-2020 23:58:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sw68vaoyt840/public_html/header.php on line 2
+[16-Jul-2020 21:37:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/sw68vaoyt840/public_html/wp-tbbshel.php on line 2
+[16-Jul-2020 21:40:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/sw68vaoyt840/public_html/wp-tbbshel.php on line 2
+[16-Jul-2020 21:49:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/sw68vaoyt840/public_html/wp-tbbshel.php on line 2
+[17-Jul-2020 08:27:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/sw68vaoyt840/public_html/wp-tbbshel.php on line 2
+[19-Jul-2020 00:47:52 UTC] PHP Notice:  Undefined index: upload in /tmp/058nDAE on line 616
+[19-Jul-2020 00:47:52 UTC] PHP Notice:  Undefined variable: act in /tmp/058nDAE on line 641
+[19-Jul-2020 00:47:52 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/058nDAE on line 508
+[19-Jul-2020 00:48:03 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0rbTnas on line 508
+[19-Jul-2020 00:48:28 UTC] PHP Notice:  Undefined index: upload in /tmp/0pGhXnN on line 616
+[19-Jul-2020 00:48:28 UTC] PHP Notice:  Undefined variable: act in /tmp/0pGhXnN on line 641
+[19-Jul-2020 00:48:28 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0pGhXnN on line 508
+[19-Jul-2020 00:48:29 UTC] PHP Notice:  Undefined index: upload in /tmp/0sEGTfy on line 616
+[19-Jul-2020 00:48:29 UTC] PHP Notice:  Undefined variable: act in /tmp/0sEGTfy on line 641
+[19-Jul-2020 00:48:29 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0sEGTfy on line 508
+[19-Jul-2020 00:48:46 UTC] PHP Notice:  Undefined index: upload in /tmp/0MSrfxh on line 616
+[19-Jul-2020 00:48:46 UTC] PHP Notice:  Undefined variable: act in /tmp/0MSrfxh on line 641
+[19-Jul-2020 00:48:46 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0MSrfxh on line 508
+[19-Jul-2020 00:48:47 UTC] PHP Notice:  Undefined index: upload in /tmp/09gZDB9 on line 616
+[19-Jul-2020 00:48:47 UTC] PHP Notice:  Undefined variable: act in /tmp/09gZDB9 on line 641
+[19-Jul-2020 00:48:47 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/09gZDB9 on line 508
+[19-Jul-2020 00:54:57 UTC] PHP Notice:  Undefined index: upload in /tmp/0MmlYph on line 616
+[19-Jul-2020 00:54:57 UTC] PHP Notice:  Undefined variable: act in /tmp/0MmlYph on line 641
+[19-Jul-2020 00:54:57 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0MmlYph on line 508
+[19-Jul-2020 00:55:34 UTC] PHP Notice:  Undefined index: upload in /tmp/0d8hdft on line 616
+[19-Jul-2020 00:55:34 UTC] PHP Notice:  Undefined variable: act in /tmp/0d8hdft on line 641
+[19-Jul-2020 00:55:34 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0d8hdft on line 508
+[19-Jul-2020 00:55:34 UTC] PHP Notice:  Undefined index: upload in /tmp/0dlTxUT on line 616
+[19-Jul-2020 00:55:34 UTC] PHP Notice:  Undefined variable: act in /tmp/0dlTxUT on line 641
+[19-Jul-2020 00:55:34 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0dlTxUT on line 508
+[19-Jul-2020 00:55:43 UTC] PHP Notice:  Undefined index: upload in /tmp/0anONkX on line 616
+[19-Jul-2020 00:55:43 UTC] PHP Notice:  Undefined variable: act in /tmp/0anONkX on line 641
+[19-Jul-2020 00:55:43 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0anONkX on line 508
+[19-Jul-2020 00:55:43 UTC] PHP Notice:  Undefined index: save in /tmp/0anONkX on line 1663
+[19-Jul-2020 00:56:13 UTC] PHP Notice:  Undefined index: upload in /tmp/0QqWcFR on line 616
+[19-Jul-2020 00:56:13 UTC] PHP Notice:  Undefined variable: act in /tmp/0QqWcFR on line 641
+[19-Jul-2020 00:56:13 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0QqWcFR on line 508
+[19-Jul-2020 00:56:18 UTC] PHP Notice:  Undefined index: upload in /tmp/09Puj5M on line 616
+[19-Jul-2020 00:56:18 UTC] PHP Notice:  Undefined variable: act in /tmp/09Puj5M on line 641
+[19-Jul-2020 00:56:18 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/09Puj5M on line 508
+[19-Jul-2020 00:56:18 UTC] PHP Notice:  Undefined index: save in /tmp/09Puj5M on line 1663
+[19-Jul-2020 00:57:23 UTC] PHP Notice:  Undefined index: upload in /tmp/0V8XLCW on line 616
+[19-Jul-2020 00:57:23 UTC] PHP Notice:  Undefined variable: act in /tmp/0V8XLCW on line 641
+[19-Jul-2020 00:57:23 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0V8XLCW on line 508
+[19-Jul-2020 01:01:06 UTC] PHP Notice:  Undefined index: upload in /tmp/0n7jW7t on line 616
+[19-Jul-2020 01:01:06 UTC] PHP Notice:  Undefined variable: act in /tmp/0n7jW7t on line 641
+[19-Jul-2020 01:01:06 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0n7jW7t on line 508
+[19-Jul-2020 01:01:13 UTC] PHP Notice:  Undefined index: upload in /tmp/0XGxBaO on line 616
+[19-Jul-2020 01:01:13 UTC] PHP Notice:  Undefined variable: act in /tmp/0XGxBaO on line 641
+[19-Jul-2020 01:01:13 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0XGxBaO on line 508
+[19-Jul-2020 01:06:12 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/09MAJSA on line 398
+[19-Jul-2020 01:06:12 UTC] PHP Notice:  Undefined index: upload in /tmp/09MAJSA on line 616
+[19-Jul-2020 01:06:12 UTC] PHP Notice:  Undefined variable: act in /tmp/09MAJSA on line 641
+[19-Jul-2020 01:06:12 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/09MAJSA on line 508
+[19-Jul-2020 01:06:16 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0c9QbUB on line 398
+[19-Jul-2020 01:06:20 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0P2qp7U on line 398
+[19-Jul-2020 01:06:20 UTC] PHP Notice:  Undefined index: upload in /tmp/0P2qp7U on line 616
+[19-Jul-2020 01:06:20 UTC] PHP Notice:  Undefined variable: act in /tmp/0P2qp7U on line 641
+[19-Jul-2020 01:06:20 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0P2qp7U on line 508
+[19-Jul-2020 01:06:27 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0WfdykP on line 398
+[19-Jul-2020 01:06:29 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0Oyu7Ny on line 398
+[19-Jul-2020 01:06:31 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0fDBXtZ on line 398
+[19-Jul-2020 01:06:35 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ivmquB on line 398
+[19-Jul-2020 01:06:35 UTC] PHP Notice:  Undefined index: upload in /tmp/0ivmquB on line 616
+[19-Jul-2020 01:06:35 UTC] PHP Notice:  Undefined variable: act in /tmp/0ivmquB on line 641
+[19-Jul-2020 01:06:35 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ivmquB on line 508
+[19-Jul-2020 01:06:37 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/02qyzSr on line 398
+[19-Jul-2020 01:06:42 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/05mey2F on line 398
+[19-Jul-2020 01:06:46 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ZqnrMv on line 398
+[19-Jul-2020 01:06:49 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0hvLOpT on line 398
+[19-Jul-2020 01:06:50 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/00FmeQV on line 398
+[19-Jul-2020 01:06:56 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0JT49S3 on line 398
+[19-Jul-2020 01:06:57 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/07Mzzoh on line 398
+[19-Jul-2020 01:07:00 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0HRZRON on line 398
+[19-Jul-2020 01:07:00 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/09TZLeW on line 398
+[19-Jul-2020 01:07:54 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0cWyeWR on line 398
+[19-Jul-2020 01:08:00 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0XikaPO on line 398
+[19-Jul-2020 01:08:02 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0bY1MbM on line 398
+[19-Jul-2020 01:08:08 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0wmnTMv on line 398
+[19-Jul-2020 01:09:54 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/04hVA69 on line 398
+[19-Jul-2020 01:09:54 UTC] PHP Notice:  Undefined index: upload in /tmp/04hVA69 on line 616
+[19-Jul-2020 01:09:54 UTC] PHP Notice:  Undefined variable: act in /tmp/04hVA69 on line 641
+[19-Jul-2020 01:09:54 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/04hVA69 on line 508
+[19-Jul-2020 01:09:56 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0cilBSr on line 398
+[19-Jul-2020 01:10:02 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0TblwF0 on line 398
+[19-Jul-2020 01:10:09 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0WliN1X on line 398
+[19-Jul-2020 01:10:31 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0BnIQG0 on line 398
+[19-Jul-2020 01:10:48 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0eKGgAZ on line 398
+[19-Jul-2020 01:10:48 UTC] PHP Notice:  Undefined index: upload in /tmp/0eKGgAZ on line 616
+[19-Jul-2020 01:10:48 UTC] PHP Notice:  Undefined variable: act in /tmp/0eKGgAZ on line 641
+[19-Jul-2020 01:10:48 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0eKGgAZ on line 508
+[19-Jul-2020 01:10:54 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0M6LVSM on line 398
+[19-Jul-2020 01:10:56 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0aRtyNI on line 398
+[19-Jul-2020 01:10:56 UTC] PHP Notice:  Undefined index: upload in /tmp/0aRtyNI on line 616
+[19-Jul-2020 01:10:56 UTC] PHP Notice:  Undefined variable: act in /tmp/0aRtyNI on line 641
+[19-Jul-2020 01:10:56 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0aRtyNI on line 508
+[19-Jul-2020 01:10:59 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0TN1H4q on line 398
+[19-Jul-2020 01:11:00 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0iltTs9 on line 398
+[19-Jul-2020 01:11:02 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0XY52s0 on line 398
+[19-Jul-2020 01:11:05 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0JjimqE on line 398
+[19-Jul-2020 01:11:12 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/05lCKAl on line 398
+[19-Jul-2020 01:11:26 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ySCBfF on line 398
+[19-Jul-2020 01:11:26 UTC] PHP Notice:  Undefined index: upload in /tmp/0ySCBfF on line 616
+[19-Jul-2020 01:11:26 UTC] PHP Notice:  Undefined variable: act in /tmp/0ySCBfF on line 641
+[19-Jul-2020 01:11:26 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ySCBfF on line 508
+[19-Jul-2020 01:11:41 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0j5HsAn on line 398
+[19-Jul-2020 01:11:44 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0lPaq0u on line 398
+[19-Jul-2020 01:11:46 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0YIemzJ on line 398
+[19-Jul-2020 01:11:48 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0V2BrOz on line 398
+[19-Jul-2020 01:11:48 UTC] PHP Notice:  Undefined index: upload in /tmp/0V2BrOz on line 616
+[19-Jul-2020 01:11:48 UTC] PHP Notice:  Undefined variable: act in /tmp/0V2BrOz on line 641
+[19-Jul-2020 01:11:48 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0V2BrOz on line 508
+[19-Jul-2020 01:11:52 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0JxGlXV on line 398
+[19-Jul-2020 01:11:54 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0eR46WN on line 398
+[19-Jul-2020 01:11:55 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0GU4nlI on line 398
+[19-Jul-2020 01:12:00 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0aXMEBk on line 398
+[19-Jul-2020 01:12:00 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0jJYS1I on line 398
+[19-Jul-2020 01:12:04 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0x2z59w on line 398
+[19-Jul-2020 01:12:05 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0xiTGn5 on line 398
+[19-Jul-2020 01:12:08 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0h4gwWQ on line 398
+[19-Jul-2020 01:12:10 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0KRwQUM on line 398
+[19-Jul-2020 01:12:17 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0a877NG on line 398
+[19-Jul-2020 01:12:17 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/06uEtD8 on line 398
+[19-Jul-2020 01:12:22 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0xi3Fo8 on line 398
+[19-Jul-2020 01:12:23 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0vYxAgZ on line 398
+[19-Jul-2020 01:12:26 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0CNDqPL on line 398
+[19-Jul-2020 01:12:28 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0O29oP3 on line 398
+[19-Jul-2020 01:12:33 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0r7qDTs on line 398
+[19-Jul-2020 01:12:34 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ZGHomJ on line 398
+[19-Jul-2020 01:12:37 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0J8kf1B on line 398
+[19-Jul-2020 01:12:40 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0E45doR on line 398
+[19-Jul-2020 01:12:41 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0IzDGFA on line 398
+[19-Jul-2020 01:12:43 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0BXZnus on line 398
+[19-Jul-2020 01:12:47 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/09RN4Ts on line 398
+[19-Jul-2020 01:12:47 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ijmKG5 on line 398
+[19-Jul-2020 01:12:51 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0sYdMbC on line 398
+[19-Jul-2020 01:12:53 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0YP1uQz on line 398
+[19-Jul-2020 01:12:53 UTC] PHP Notice:  Undefined index: upload in /tmp/0YP1uQz on line 616
+[19-Jul-2020 01:12:53 UTC] PHP Notice:  Undefined variable: act in /tmp/0YP1uQz on line 641
+[19-Jul-2020 01:12:53 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0YP1uQz on line 508
+[19-Jul-2020 01:13:27 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0jjTuhi on line 398
+[19-Jul-2020 01:13:31 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0p6zQxi on line 398
+[19-Jul-2020 01:13:37 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0CWCuHd on line 398
+[19-Jul-2020 01:13:37 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0dPLPiK on line 398
+[19-Jul-2020 01:13:41 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0WcgYot on line 398
+[19-Jul-2020 01:13:42 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0yJ6v3R on line 398
+[19-Jul-2020 01:13:42 UTC] PHP Notice:  Undefined index: upload in /tmp/0yJ6v3R on line 616
+[19-Jul-2020 01:13:42 UTC] PHP Notice:  Undefined variable: act in /tmp/0yJ6v3R on line 641
+[19-Jul-2020 01:13:42 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0yJ6v3R on line 508
+[19-Jul-2020 01:13:45 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0bX3Kxc on line 398
+[19-Jul-2020 01:13:49 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0Lew18f on line 398
+[19-Jul-2020 01:13:56 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0oPAV8Q on line 398
+[19-Jul-2020 01:13:56 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/07o9zXf on line 398
+[19-Jul-2020 01:13:59 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0fLwqQ6 on line 398
+[19-Jul-2020 01:14:01 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0x40Vji on line 398
+[19-Jul-2020 01:14:01 UTC] PHP Notice:  Undefined index: upload in /tmp/0x40Vji on line 616
+[19-Jul-2020 01:14:01 UTC] PHP Notice:  Undefined variable: act in /tmp/0x40Vji on line 641
+[19-Jul-2020 01:14:01 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0x40Vji on line 508
+[19-Jul-2020 01:14:05 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0CZfmQL on line 398
+[19-Jul-2020 01:14:08 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ghK8HV on line 398
+[19-Jul-2020 01:14:08 UTC] PHP Notice:  Undefined index: upload in /tmp/0ghK8HV on line 616
+[19-Jul-2020 01:14:08 UTC] PHP Notice:  Undefined variable: act in /tmp/0ghK8HV on line 641
+[19-Jul-2020 01:14:08 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0ghK8HV on line 508
+[19-Jul-2020 01:14:16 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/05ItfKP on line 398
+[19-Jul-2020 01:14:19 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0CMRGtR on line 398
+[19-Jul-2020 01:14:20 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0MW1YJh on line 398
+[19-Jul-2020 01:14:21 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/03dggjI on line 398
+[19-Jul-2020 01:14:40 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/0YUO7VT on line 398
+[19-Jul-2020 01:14:55 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/05I9VrI on line 398
+[19-Jul-2020 01:14:55 UTC] PHP Notice:  Undefined index: upload in /tmp/05I9VrI on line 616
+[19-Jul-2020 01:14:55 UTC] PHP Notice:  Undefined variable: act in /tmp/05I9VrI on line 641
+[19-Jul-2020 01:14:55 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/05I9VrI on line 508
+[19-Jul-2020 01:15:00 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/07x9jUu on line 398
+[19-Jul-2020 01:15:00 UTC] PHP Notice:  Undefined index: upload in /tmp/07x9jUu on line 616
+[19-Jul-2020 01:15:00 UTC] PHP Notice:  Undefined variable: act in /tmp/07x9jUu on line 641
+[19-Jul-2020 01:15:00 UTC] PHP Notice:  Undefined index: SERVERIP in /tmp/07x9jUu on line 508
